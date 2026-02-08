@@ -2,7 +2,7 @@
   {
     "id": "MFR-001",
     "name": "Ford Motor Company",
-    "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/ford-logo.jpg",
+    "logoUrl": "https://github.com/WoutRigaux1/dataset_opdracht_WebOntwikkeling/blob/main/images/fordlogo.jpg?raw=true",
     "foundedYear": 1903,
     "headquarters": "Dearborn, Michigan, USA",
     "country": "United States"
@@ -10,7 +10,7 @@
   {
     "id": "MFR-002",
     "name": "Tesla Inc.",
-    "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/tesla-logo.jpg",
+    "logoUrl": "https://github.com/WoutRigaux1/dataset_opdracht_WebOntwikkeling/blob/main/images/teslalogo.jpg?raw=true",
     "foundedYear": 2003,
     "headquarters": "Austin, Texas, USA",
     "country": "United States"
@@ -18,7 +18,7 @@
   {
     "id": "MFR-003",
     "name": "Porsche AG",
-    "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/porsche-logo.jpg",
+    "logoUrl": "https://github.com/WoutRigaux1/dataset_opdracht_WebOntwikkeling/blob/main/images/porschelogo.jpg?raw=true",
     "foundedYear": 1931,
     "headquarters": "Stuttgart, Germany",
     "country": "Germany"
@@ -26,7 +26,7 @@
   {
     "id": "MFR-004",
     "name": "Toyota Motor Corporation",
-    "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/toyota-logo.jpg",
+    "logoUrl": "https://github.com/WoutRigaux1/dataset_opdracht_WebOntwikkeling/blob/main/images/toyotalogo.jpg?raw=true",
     "foundedYear": 1937,
     "headquarters": "Toyota City, Japan",
     "country": "Japan"
@@ -34,7 +34,7 @@
   {
     "id": "MFR-005",
     "name": "BMW Group",
-    "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/bmw-logo.jpg",
+    "logoUrl": "https://github.com/WoutRigaux1/dataset_opdracht_WebOntwikkeling/blob/main/images/bmwlogo.jpg?raw=true",
     "foundedYear": 1916,
     "headquarters": "Munich, Germany",
     "country": "Germany"
@@ -42,7 +42,7 @@
   {
     "id": "MFR-006",
     "name": "General Motors",
-    "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/gm-logo.jpg",
+    "logoUrl": "https://github.com/WoutRigaux1/dataset_opdracht_WebOntwikkeling/blob/main/images/chevroletlogo.jpg?raw=true",
     "foundedYear": 1908,
     "headquarters": "Detroit, Michigan, USA",
     "country": "United States"
@@ -50,7 +50,7 @@
   {
     "id": "MFR-007",
     "name": "Audi AG",
-    "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/audi-logo.jpg",
+    "logoUrl": "https://github.com/WoutRigaux1/dataset_opdracht_WebOntwikkeling/blob/main/images/audilogo.jpg?raw=true",
     "foundedYear": 1909,
     "headquarters": "Ingolstadt, Germany",
     "country": "Germany"
@@ -58,7 +58,7 @@
   {
     "id": "MFR-008",
     "name": "Honda Motor Co.",
-    "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/honda-logo.jpg",
+    "logoUrl": "https://github.com/WoutRigaux1/dataset_opdracht_WebOntwikkeling/blob/main/images/hondalogo.jpg?raw=true",
     "foundedYear": 1948,
     "headquarters": "Tokyo, Japan",
     "country": "Japan"
@@ -66,7 +66,7 @@
   {
     "id": "MFR-009",
     "name": "Mercedes-Benz Group AG",
-    "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/mercedes-logo.jpg",
+    "logoUrl": "https://github.com/WoutRigaux1/dataset_opdracht_WebOntwikkeling/blob/main/images/mercedeslogo.jpg?raw=true",
     "foundedYear": 1926,
     "headquarters": "Stuttgart, Germany",
     "country": "Germany"
@@ -74,7 +74,7 @@
   {
     "id": "MFR-010",
     "name": "Mazda Motor Corporation",
-    "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/mazda-logo.jpg",
+    "logoUrl": "https://github.com/WoutRigaux1/dataset_opdracht_WebOntwikkeling/blob/main/images/mazdalogo.jpg?raw=true",
     "foundedYear": 1920,
     "headquarters": "Hiroshima, Japan",
     "country": "Japan"
@@ -82,7 +82,7 @@
   {
     "id": "MFR-011",
     "name": "Lamborghini S.p.A.",
-    "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/lamborghini-logo.jpg",
+    "logoUrl": "https://github.com/WoutRigaux1/dataset_opdracht_WebOntwikkeling/blob/main/images/lamborghinilogo.jpg?raw=true",
     "foundedYear": 1963,
     "headquarters": "Sant'Agata Bolognese, Italy",
     "country": "Italy"
@@ -90,7 +90,7 @@
   {
     "id": "MFR-012",
     "name": "Nissan Motor Corporation",
-    "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/nissan-logo.jpg",
+    "logoUrl": "https://github.com/WoutRigaux1/dataset_opdracht_WebOntwikkeling/blob/main/images/nissanlogo.jpg?raw=true",
     "foundedYear": 1933,
     "headquarters": "Yokohama, Japan",
     "country": "Japan"
