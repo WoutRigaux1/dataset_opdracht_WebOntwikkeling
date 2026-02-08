@@ -1,0 +1,230 @@
+[
+  {
+    "id": "CAR-001",
+    "name": "Ford Mustang GT",
+    "description": "An iconic American muscle car that combines raw power with modern technology. The Mustang GT features a naturally aspirated V8 engine, aggressive styling, and a driver-focused cockpit that delivers an exhilarating driving experience.",
+    "horsePower": 450,
+    "isAvailable": true,
+    "releaseDate": "2023-05-15",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/mustang-gt.jpg",
+    "fuelType": "Gasoline",
+    "features": ["Adaptive Cruise Control", "Apple CarPlay", "Performance Exhaust", "Brembo Brakes"],
+    "manufacturer": {
+      "id": "MFR-001",
+      "name": "Ford Motor Company",
+      "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/ford-logo.jpg",
+      "foundedYear": 1903,
+      "headquarters": "Dearborn, Michigan, USA",
+      "country": "United States"
+    }
+  },
+  {
+    "id": "CAR-002",
+    "name": "Tesla Model 3 Performance",
+    "description": "A groundbreaking electric sedan that redefined the automotive industry. With instant torque, autopilot capabilities, and over-the-air updates, the Model 3 Performance offers a glimpse into the future of driving.",
+    "horsePower": 450,
+    "isAvailable": true,
+    "releaseDate": "2022-08-20",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/tesla-model3.jpg",
+    "fuelType": "Electric",
+    "features": ["Autopilot", "Over-the-Air Updates", "Glass Roof", "Track Mode"],
+    "manufacturer": {
+      "id": "MFR-002",
+      "name": "Tesla Inc.",
+      "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/tesla-logo.jpg",
+      "foundedYear": 2003,
+      "headquarters": "Austin, Texas, USA",
+      "country": "United States"
+    }
+  },
+  {
+    "id": "CAR-003",
+    "name": "Porsche 911 Carrera",
+    "description": "The quintessential sports car that has been refined over decades. The 911 Carrera offers precision engineering, timeless design, and a flat-six engine that produces an unforgettable sound and driving dynamics.",
+    "horsePower": 379,
+    "isAvailable": true,
+    "releaseDate": "2023-03-10",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/porsche-911.jpg",
+    "fuelType": "Gasoline",
+    "features": ["Sport Chrono Package", "PASM Suspension", "PDK Transmission", "Sport Exhaust"],
+    "manufacturer": {
+      "id": "MFR-003",
+      "name": "Porsche AG",
+      "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/porsche-logo.jpg",
+      "foundedYear": 1931,
+      "headquarters": "Stuttgart, Germany",
+      "country": "Germany"
+    }
+  },
+  {
+    "id": "CAR-004",
+    "name": "Toyota Camry Hybrid",
+    "description": "A reliable and fuel-efficient midsize sedan that's perfect for daily commuting. The Camry Hybrid combines Toyota's legendary reliability with excellent fuel economy and a comfortable, tech-laden interior.",
+    "horsePower": 208,
+    "isAvailable": true,
+    "releaseDate": "2023-01-05",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/camry-hybrid.jpg",
+    "fuelType": "Hybrid",
+    "features": ["Lane Departure Warning", "Adaptive Cruise Control", "Wireless Charging", "JBL Audio System"],
+    "manufacturer": {
+      "id": "MFR-004",
+      "name": "Toyota Motor Corporation",
+      "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/toyota-logo.jpg",
+      "foundedYear": 1937,
+      "headquarters": "Toyota City, Japan",
+      "country": "Japan"
+    }
+  },
+  {
+    "id": "CAR-005",
+    "name": "BMW M3 Competition",
+    "description": "The ultimate driving machine in sedan form. The M3 Competition features a twin-turbo inline-six engine, razor-sharp handling, and aggressive styling that commands attention on any road or track.",
+    "horsePower": 503,
+    "isAvailable": true,
+    "releaseDate": "2022-11-18",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/bmw-m3.jpg",
+    "fuelType": "Gasoline",
+    "features": ["M Carbon Bucket Seats", "M xDrive AWD", "Launch Control", "Adaptive M Suspension"],
+    "manufacturer": {
+      "id": "MFR-005",
+      "name": "BMW Group",
+      "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/bmw-logo.jpg",
+      "foundedYear": 1916,
+      "headquarters": "Munich, Germany",
+      "country": "Germany"
+    }
+  },
+  {
+    "id": "CAR-006",
+    "name": "Chevrolet Corvette C8",
+    "description": "America's first mid-engine sports car that delivers supercar performance at a fraction of the price. The C8 Corvette features stunning design, a naturally aspirated V8, and handling that rivals European exotics.",
+    "horsePower": 495,
+    "isAvailable": false,
+    "releaseDate": "2020-07-30",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/corvette-c8.jpg",
+    "fuelType": "Gasoline",
+    "features": ["Magnetic Ride Control", "Performance Data Recorder", "Heads-Up Display", "Z51 Performance Package"],
+    "manufacturer": {
+      "id": "MFR-006",
+      "name": "General Motors",
+      "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/gm-logo.jpg",
+      "foundedYear": 1908,
+      "headquarters": "Detroit, Michigan, USA",
+      "country": "United States"
+    }
+  },
+  {
+    "id": "CAR-007",
+    "name": "Audi e-tron GT",
+    "description": "A luxurious electric grand tourer that combines stunning design with blistering performance. The e-tron GT offers a premium interior, advanced technology, and the instant acceleration that only electric motors can provide.",
+    "horsePower": 522,
+    "isAvailable": true,
+    "releaseDate": "2023-06-12",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/audi-etron.jpg",
+    "fuelType": "Electric",
+    "features": ["Quattro AWD", "Air Suspension", "Matrix LED Headlights", "Virtual Cockpit"],
+    "manufacturer": {
+      "id": "MFR-007",
+      "name": "Audi AG",
+      "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/audi-logo.jpg",
+      "foundedYear": 1909,
+      "headquarters": "Ingolstadt, Germany",
+      "country": "Germany"
+    }
+  },
+  {
+    "id": "CAR-008",
+    "name": "Honda Civic Type R",
+    "description": "A front-wheel-drive hot hatch that punches well above its weight class. The Civic Type R features a turbocharged engine, track-ready suspension, and aggressive aerodynamics that make it a favorite among enthusiasts.",
+    "horsePower": 315,
+    "isAvailable": true,
+    "releaseDate": "2023-04-22",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/civic-type-r.jpg",
+    "fuelType": "Gasoline",
+    "features": ["Brembo Brakes", "Limited Slip Differential", "Track Mode", "Adaptive Dampers"],
+    "manufacturer": {
+      "id": "MFR-008",
+      "name": "Honda Motor Co.",
+      "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/honda-logo.jpg",
+      "foundedYear": 1948,
+      "headquarters": "Tokyo, Japan",
+      "country": "Japan"
+    }
+  },
+  {
+    "id": "CAR-009",
+    "name": "Mercedes-AMG GT",
+    "description": "A handcrafted sports car that epitomizes German engineering excellence. The AMG GT features a twin-turbo V8, luxurious interior appointments, and styling that turns heads wherever it goes.",
+    "horsePower": 523,
+    "isAvailable": true,
+    "releaseDate": "2022-09-08",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/amg-gt.jpg",
+    "fuelType": "Gasoline",
+    "features": ["AMG Performance Exhaust", "Burmester Sound System", "AMG Ride Control", "AMG Speedshift DCT"],
+    "manufacturer": {
+      "id": "MFR-009",
+      "name": "Mercedes-Benz Group AG",
+      "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/mercedes-logo.jpg",
+      "foundedYear": 1926,
+      "headquarters": "Stuttgart, Germany",
+      "country": "Germany"
+    }
+  },
+  {
+    "id": "CAR-010",
+    "name": "Mazda MX-5 Miata",
+    "description": "The world's best-selling roadster that proves driving fun doesn't require excessive power. The MX-5 Miata offers perfect weight distribution, a responsive chassis, and the pure joy of open-top driving.",
+    "horsePower": 181,
+    "isAvailable": true,
+    "releaseDate": "2023-02-14",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/mazda-miata.jpg",
+    "fuelType": "Gasoline",
+    "features": ["Retractable Hardtop", "Bilstein Dampers", "Limited Slip Differential", "Bose Audio"],
+    "manufacturer": {
+      "id": "MFR-010",
+      "name": "Mazda Motor Corporation",
+      "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/mazda-logo.jpg",
+      "foundedYear": 1920,
+      "headquarters": "Hiroshima, Japan",
+      "country": "Japan"
+    }
+  },
+  {
+    "id": "CAR-011",
+    "name": "Lamborghini Huracán EVO",
+    "description": "An Italian supercar that delivers visceral excitement with every drive. The Huracán EVO features a naturally aspirated V10, stunning design, and performance that defies physics with its advanced all-wheel-drive system.",
+    "horsePower": 631,
+    "isAvailable": true,
+    "releaseDate": "2022-12-03",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/lamborghini-huracan.jpg",
+    "fuelType": "Gasoline",
+    "features": ["LDVI System", "Rear-Wheel Steering", "Carbon Ceramic Brakes", "Alcantara Interior"],
+    "manufacturer": {
+      "id": "MFR-011",
+      "name": "Lamborghini S.p.A.",
+      "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/lamborghini-logo.jpg",
+      "foundedYear": 1963,
+      "headquarters": "Sant'Agata Bolognese, Italy",
+      "country": "Italy"
+    }
+  },
+  {
+    "id": "CAR-012",
+    "name": "Nissan GT-R NISMO",
+    "description": "A Japanese performance icon known as 'Godzilla' for its monster-like capability. The GT-R NISMO features advanced all-wheel drive, twin-turbo V6 power, and technology born from racing that delivers supercar performance.",
+    "horsePower": 600,
+    "isAvailable": true,
+    "releaseDate": "2023-07-19",
+    "imageUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/nissan-gtr.jpg",
+    "fuelType": "Gasoline",
+    "features": ["Launch Control", "Bilstein DampTronic Suspension", "Carbon Fiber Aero", "Recaro Seats"],
+    "manufacturer": {
+      "id": "MFR-012",
+      "name": "Nissan Motor Corporation",
+      "logoUrl": "https://raw.githubusercontent.com/yourusername/car-api/main/images/nissan-logo.jpg",
+      "foundedYear": 1933,
+      "headquarters": "Yokohama, Japan",
+      "country": "Japan"
+    }
+  }
+]
